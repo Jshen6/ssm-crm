@@ -1,5 +1,5 @@
 # ssm-crm
-基于SSM整合框架的CRM系统
+基于SSM框架的CRM系统
 
 项目描述：
 
